@@ -12,9 +12,9 @@
     "url": "git+https://github.com/MarinaRodina/hexlet-js.git"
   },
   "keywords": [
-    "qwe"
+    "hexlet"
   ],
-  "author": "",
+  "author": "Marina Rodina",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MarinaRodina/hexlet-js/issues"
